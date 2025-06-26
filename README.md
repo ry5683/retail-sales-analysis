@@ -25,3 +25,6 @@ A retail company suspected revenue leakage and inconsistent reporting across dif
 - `retail_sales_dataset.csv` – Original dataset
 - `retail_sales_cleaned.ipynb` – Full cleaning, EDA, and feature engineering
 - `README.md` – This file
+
+### 🖼 Sample Output
+![Total Sales by Region](sales_by_region.png)
